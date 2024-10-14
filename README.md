@@ -1,6 +1,7 @@
-### 
+###
 
-Hello, I'm Shi Hong Huang, a Master’s student in Computer Science with a solid background in mechatronics, programming, and software development. I have experience in web scraping, machine learning, and developing full-stack web applications. I am proficient in Python, PHP, JavaScript, Vue.js, C++, and databases such as MySQL and SQLSRV. Additionally, I have worked with Federated Learning and autonomous driving models for decentralized learning. I am skilled at deploying solutions on cloud platforms like GCP. Passionate about leveraging technology to create efficient, data-driven solutions, I have hands-on experience in projects involving betting arbitrage detection, event captioning for educational videos, and smart systems development. I am eager to apply my technical expertise in research and industry, while continuously learning and growing in fields such as artificial intelligence, management systems, and decentralized technologies.
+Hello, I'm Shi Hong Huang, a Master’s student in Computer Science actively seeking job opportunities starting May 2025. With a strong foundation in programming, software development, and machine learning, my expertise includes full-stack web development, machine learning, and web scraping. I'm proficient in Python, PHP, JavaScript, Vue.js, C++, MySQL, and SQLSRV.With hands-on experience in betting arbitrage detection, production management systems, and event captioning for videos, I'm eager to apply my skills in research and industry.
+
 <!--
 **HoldenHuan9/HoldenHuan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
